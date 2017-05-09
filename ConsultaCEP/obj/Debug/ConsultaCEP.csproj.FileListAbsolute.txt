@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\ConsultaCEP\ConsultaCEP\bin\Debug\ConsultaCEP.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\ConsultaCEP\ConsultaCEP\bin\Debug\ConsultaCEP.exe
+c:\users\admin\documents\visual studio 2015\Projects\ConsultaCEP\ConsultaCEP\bin\Debug\ConsultaCEP.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.exe
+c:\users\admin\documents\visual studio 2015\Projects\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.Form1.resources
