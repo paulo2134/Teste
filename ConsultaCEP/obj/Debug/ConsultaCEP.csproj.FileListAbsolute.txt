@@ -7,3 +7,4 @@ c:\users\admin\documents\visual studio 2015\Projects\ConsultaCEP\ConsultaCEP\obj
 c:\users\admin\documents\visual studio 2015\Projects\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.exe
 c:\users\admin\documents\visual studio 2015\Projects\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.pdb
 c:\users\admin\documents\visual studio 2015\Projects\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.Form1.resources
+C:\Users\admin\documents\visual studio 2015\Projects\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.Form2.resources
